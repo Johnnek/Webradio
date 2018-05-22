@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Webradio</string>
+    <string name="live">sunshine:Live</string>
+    <string name="house">sunshine:House</string>
+    <string name="edm">sunshine:EDM</string>
+    <string name="ninety">sunshine:90er</string>
+</resources>
